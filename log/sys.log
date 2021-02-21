@@ -1,0 +1,16 @@
+2021-02-17 20:41:55,475 INFO (StartupInfoLogger.java:55)- Starting YouliApplicationTests on LAPTOP-C0C9J590 with PID 17540 (started by kawa in D:\Study Tool\IDEA\javaProject\youli)
+2021-02-17 20:41:55,477 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-02-17 20:41:55,478 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-02-17 20:41:59,794 INFO (StartupInfoLogger.java:61)- Started YouliApplicationTests in 4.708 seconds (JVM running for 5.673)
+2021-02-17 23:09:30,548 INFO (StartupInfoLogger.java:55)- Starting YouliApplicationTests on LAPTOP-C0C9J590 with PID 11900 (started by kawa in D:\Study Tool\IDEA\javaProject\youli)
+2021-02-17 23:09:30,625 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-02-17 23:09:30,626 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-02-17 23:09:34,644 INFO (StartupInfoLogger.java:61)- Started YouliApplicationTests in 4.429 seconds (JVM running for 5.35)
+2021-02-17 23:38:22,329 INFO (StartupInfoLogger.java:55)- Starting YouliApplication on LAPTOP-C0C9J590 with PID 4660 (D:\Study Tool\IDEA\javaProject\youli\target\classes started by kawa in D:\Study Tool\IDEA\javaProject\youli)
+2021-02-17 23:38:22,330 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-02-17 23:38:22,331 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-02-17 23:38:24,770 INFO (StartupInfoLogger.java:61)- Started YouliApplication in 3.02 seconds (JVM running for 4.485)
+2021-02-17 23:40:23,344 INFO (StartupInfoLogger.java:55)- Starting YouliApplication on LAPTOP-C0C9J590 with PID 15904 (D:\Study Tool\IDEA\javaProject\youli\target\classes started by kawa in D:\Study Tool\IDEA\javaProject\youli)
+2021-02-17 23:40:23,345 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-02-17 23:40:23,345 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-02-17 23:40:26,429 INFO (StartupInfoLogger.java:61)- Started YouliApplication in 3.499 seconds (JVM running for 4.609)
